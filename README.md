@@ -12,7 +12,7 @@ This is a simple implementation of the classic Tic Tac Toe game in HTML, CSS, an
 <img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_player%20X%20won.png">
 
 ## Player O win :
-<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
+<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_player%20O%20won.png">
 
 ## VS CPU mode menu :
 <img align="center" alt="coding" width="350" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
