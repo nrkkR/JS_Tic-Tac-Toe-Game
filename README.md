@@ -6,7 +6,7 @@ This is a simple implementation of the classic Tic Tac Toe game in HTML, CSS, an
 <img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_startup%20menu.png">
 
 ## 2 Player menu :
-<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
+<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_2%20player%20selected%20menu.png">
 
 ## Player X win :
 <img align="center" alt="coding" width="350" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
