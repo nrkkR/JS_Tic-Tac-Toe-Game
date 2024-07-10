@@ -1,0 +1,109 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.mode-options,
+.first-move-options,
+.difficulty-options {
+    margin-bottom: 10px;
+}
+
+.mode-options button,
+.first-move-options button,
+.difficulty-options button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: white;
+}
+
+.mode-options button:hover,
+.first-move-options button:hover,
+.difficulty-options button:hover {
+    background-color: #45a049;
+}
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 5px;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    border: 2px solid #333;
+    cursor: pointer;
+}
+
+.cell.disabled {
+    pointer-events: none;
+    color: #ccc;
+}
+
+.cell.winner-x {
+    background-color: red;
+    color: white;
+}
+
+.cell.winner-o {
+    background-color: green;
+    color: white;
+}
+
+.hud {
+    margin-top: 20px;
+}
+
+#message {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+}
+
+button:hover {
+    background-color: #555;
+}
