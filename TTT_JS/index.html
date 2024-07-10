@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rajdeep's TIC TAC TOE</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Rajdeep's TIC TAC TOE</h1>
+        <div class="options">
+            <div class="mode-options">
+                <button onclick="chooseMode('player')">2 Player Mode</button>
+                <button onclick="chooseMode('cpu')">VS CPU Mode</button>
+            </div>
+            <div class="first-move-options">
+                <button onclick="chooseFirstMove('X')">Player X First</button>
+                <button onclick="chooseFirstMove('O')">Player O First</button>
+            </div>
+            <div class="difficulty-options">
+                <button onclick="setDifficulty('easy')">Easy</button>
+                <button onclick="setDifficulty('medium')">Medium</button>
+                <button onclick="setDifficulty('hard')">Hard</button>
+            </div>
+        </div>
+        <div id="board" class="board">
+            <div class="cell" onclick="makeMove(0)"></div>
+            <div class="cell" onclick="makeMove(1)"></div>
+            <div class="cell" onclick="makeMove(2)"></div>
+            <div class="cell" onclick="makeMove(3)"></div>
+            <div class="cell" onclick="makeMove(4)"></div>
+            <div class="cell" onclick="makeMove(5)"></div>
+            <div class="cell" onclick="makeMove(6)"></div>
+            <div class="cell" onclick="makeMove(7)"></div>
+            <div class="cell" onclick="makeMove(8)"></div>
+        </div>
+        <div class="hud">
+            <div id="message">Player X's turn</div>
+            <button onclick="resetGame()">Reset Game</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
