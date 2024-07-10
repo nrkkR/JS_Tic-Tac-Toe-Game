@@ -3,19 +3,19 @@
 This is a simple implementation of the classic Tic Tac Toe game in HTML, CSS, and JavaScript.
 
 ## Startup menu :
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
+<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_startup%20menu.png">
 
 ## 2 Player menu :
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
+<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
 
 ## Player X win :
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
+<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
 
 ## Player O win :
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
+<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
 
 ## VS CPU mode menu :
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
+<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/Python_EMAIL-Clone/blob/main/Email%20GUI%20clone.png">
 
 ## Game Features
 
